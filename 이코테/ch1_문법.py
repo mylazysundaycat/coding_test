@@ -41,7 +41,7 @@ print(array3)
 
 #2차원 리스트
 array4 = [[0]*3 for _ in range(2)] #언더바?
-print(array4)
+print('array4',array4)
 
 #파이썬의 언더바
 #반복을 수행하되 반복을 위한 변수의 값을 무시하고자 할때 언더바를 자주 사용합니다
